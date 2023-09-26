@@ -83,6 +83,7 @@
 - [Installation](#installation)
   - [Local](#local)
   - [Docker](#docker)
+  - [Vercel[(#vercel)
 - [Documentation](#documentation)
   - [GET Anime Home Page](#get-anime-home-page)
   - [GET Anime About Info](#get-anime-about-info)
@@ -138,6 +139,10 @@ docker run -p 4000:4000 ghcr.io/ghoshritesh12/aniwatch
 The above command will start the server on port 4000. You can access the server at [http://localhost:4000](http://localhost:4000) and you can also change the port by changing the `-p` option to `-p <port>:4000`.
 
 You can also add the `-d` flag to run the container in detached mode.
+
+### Vercel
+
+You can host the api server in Vercel by clicking [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FghoshRitesh12%2Faniwatch-api%2Ftree%2Fmain)
 
 ## <span id="documentation">📚 Documentation</span>
 
