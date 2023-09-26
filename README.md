@@ -143,6 +143,7 @@ You can also add the `-d` flag to run the container in detached mode.
 ### Vercel
 
 Host your own instance on Vercel using the button below
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FghoshRitesh12%2Faniwatch-api%2Ftree%2Fmain)
 
 ## <span id="documentation">📚 Documentation</span>
