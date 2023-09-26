@@ -83,7 +83,7 @@
 - [Installation](#installation)
   - [Local](#local)
   - [Docker](#docker)
-  - [Vercel[(#vercel)
+  - [Vercel](#vercel)
 - [Documentation](#documentation)
   - [GET Anime Home Page](#get-anime-home-page)
   - [GET Anime About Info](#get-anime-about-info)
@@ -142,7 +142,8 @@ You can also add the `-d` flag to run the container in detached mode.
 
 ### Vercel
 
-You can host the api server in Vercel by clicking [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FghoshRitesh12%2Faniwatch-api%2Ftree%2Fmain)
+Host your own instance on Vercel using the button below
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FghoshRitesh12%2Faniwatch-api%2Ftree%2Fmain)
 
 ## <span id="documentation">📚 Documentation</span>
 
